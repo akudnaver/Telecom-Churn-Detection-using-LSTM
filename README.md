@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/telecom-churn-detection.git
+   git clone https://github.com/akudnaver/telecom-churn-detection.git
    cd telecom-churn-detection
    ```
 
@@ -121,11 +121,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** Replace placeholders such as `https://github.com/your-username/telecom-churn-detection.git` with your actual repository link. Update the accuracy and metrics placeholders with actual results from your model, and include relevant screenshots or demo links where indicated. Adjust any script names or paths as necessary.
