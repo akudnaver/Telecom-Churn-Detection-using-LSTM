@@ -1,4 +1,4 @@
-# Telecom Churn Detection Using LSTM
+# Telecom Churn Detection Using Machine Learning
 
 This repository contains a project for detecting customer churn in the telecom industry using Long Short-Term Memory (LSTM) networks. The project includes a web interface built with Flask to interact with the churn detection model.
 
